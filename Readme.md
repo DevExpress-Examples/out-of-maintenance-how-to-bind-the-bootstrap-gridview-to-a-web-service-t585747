@@ -1,9 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
-
-* **[WebForm1.aspx](./CS/Connect to OData service/WebForm1.aspx)**
-* [WebForm1.aspx.cs](./CS/Connect to OData service/WebForm1.aspx.cs)
-<!-- default file list end -->
 # How to bind the Bootstrap GridView to a Web Service
 
 
@@ -11,4 +5,9 @@
 
 <br/>
 
+<!-- default file list -->
+*Files to look at*:
 
+* **[WebForm1.aspx](./CS/Connect to OData service/WebForm1.aspx)**
+* [WebForm1.aspx.cs](./CS/Connect to OData service/WebForm1.aspx.cs)
+<!-- default file list end -->
