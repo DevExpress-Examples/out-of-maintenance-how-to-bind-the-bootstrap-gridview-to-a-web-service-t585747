@@ -18,7 +18,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <dx:BootstrapGridView ID="BootstrapGridView1" runat="server" AutoGenerateColumns="False" KeyFieldName="EmployeeID">
+            <dx:BootstrapGridView ID="BootstrapGridView1" runat="server" AutoGenerateColumns="False" KeyFieldName="ID">
                 <Columns>
                     <dx:BootstrapGridViewTextColumn FieldName="ID" ReadOnly="True" VisibleIndex="1">
                         <SettingsEditForm Visible="False"></SettingsEditForm>
